@@ -1,2 +1,2 @@
 # Open-WebUI-
-A Local AI ChatBot Setup Using Open WebUI And Ollama To Explore LargeLAngiuage Models (LLLMs) and Generative AI.
+A Local AI ChatBot Setup Using Open WebUI And Ollama To Explore Large Language Models (LLLMs) and Generative AI.
